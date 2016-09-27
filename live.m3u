@@ -11,7 +11,7 @@ http://223.75.3.82:8081/live/live2/CCTV3HD/4000/CCTV3HD-4000-node3.m3u8?fmt=x264
 #EXTINF:-1,CCTV-4中文国际(亚洲)
 rtsp://27.223.123.70:554/PLTV/88888888/224/3221225798/10000100000000060000000000216964_0.smil
 #EXTINF:-1,CCTV-5体育HD
-http://222.191.24.5:6610/2/2/ch00000090990000001239/index.m3u8?ispcode=3
+http://61.55.145.198/live/hls/1048.m3u8
 #EXTINF:-1,CCTV-6电影HD
 http://live.yfile.1905.com/hls/cctv6_hi/index.m3u8
 #EXTINF:-1,CCTV-7军事农业HD
@@ -134,20 +134,30 @@ rtsp://27.223.123.70:554/PLTV/88888888/224/3221225946/10000100000000060000000000
 rtsp://27.223.123.70:554/PLTV/88888888/224/3221225947/10000100000000060000000000218944_0.smil
 
 #EXTINF:-1,数字节目
+#EXTINF:-1,全纪实HD
+http://42.63.204.15:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R57E50E84U39D78289K7749ABD0M30EAF0DW181930&programid=4200900152&auth=no
+#EXTINF:-1,CCTV-电视指南
+http://221.181.100.24:8088/ws_v/dszn/dszn711/711/01.m3u8
+#EXTINF:-1,CCTV-新科动漫
+http://221.181.100.24:8088/ws_w/xkdm/xkdm711/711/01.m3u8
+#EXTINF:-1,CCTV-女性时尚
+http://221.181.100.24:8088/ws_v/nxss/nxss711/711/01.m3u8
+#EXTINF:-1,CCTV-世界地理
+http://221.181.100.24:8088/ws_v/sjdl/sjdl711/711/01.m3u8
+#EXTINF:-1,CCTV-风云音乐
+http://221.181.100.24:8088/ws_v/fyyy/fyyy711/711/01.m3u8
+#EXTINF:-1,CCTV-风云足球
+http://221.181.100.24:8088/ws_v/fyzq/fyzq711/711/01.m3u8
+#EXTINF:-1,CCTV-央视台球
+http://221.181.100.24:8088/ws_v/ystq/ystq711/711/01.m3u8
 #EXTINF:-1,CCTV-怀旧剧场
 http://222.191.24.5:6610/2/2/ch00000090990000001211/index.m3u8?ispcode=3
 #EXTINF:-1,CCTV-风云剧场
 http://222.191.24.5:6610/2/2/ch00000090990000001207/index.m3u8?ispcode=3
 #EXTINF:-1,CCTV-国防军事
 http://222.191.24.5:6610/2/2/ch00000090990000001205/index.m3u8?ispcode=3
-#EXTINF:-1,CCTV-世界地理
-http://222.191.24.5:6610/2/2/ch00000090990000001203/index.m3u8?ispcode=3
-#EXTINF:-1,CCTV-风云足球
-http://222.191.24.5:6610/2/2/ch00000090990000001199/index.m3u8?ispcode=3
-#EXTINF:-1,CCTV-央视台球
-http://222.191.24.5:6610/2/2/ch00000090990000001294/index.m3u8?ispcode=3
 #EXTINF:-1,CCTV-央视文化精品
-http://222.191.24.5:6610/2/2/ch00000090990000001210/index.m3u8?ispcode=3
+http://221.181.100.24:8088/ws_v/ysjp/ysjp711/711/01.m3u8
 #EXTINF:-1,CCTV-高尔夫网球
 http://222.191.24.5:6610/2/2/ch00000090990000001201/index.m3u8?ispcode=3
 #EXTINF:-1,气象频道
@@ -170,6 +180,8 @@ http://222.184.57.135/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlis
 http://222.191.24.5:6610/2/2/ch00000090990000001136/index.m3u8?ispcode=3
 
 #EXTINF:-1,港台&境外
+#EXTINF:-1,翡翠台
+http://45.125.13.81/tvb.php?id=huoguo
 #EXTINF:-1,亚洲联合卫视
 http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 #EXTINF:-1,MTV中国
