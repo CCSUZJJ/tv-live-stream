@@ -74,10 +74,12 @@ rtsp://27.223.123.70:554/PLTV/88888888/224/3221225882/10000100000000060000000000
 rtsp://27.223.123.70:554/PLTV/88888888/224/3221225874/10000100000000060000000000215723_0.smil
 #EXTINF:-1,河北卫视HD
 http://live01.hebtv.com/channels/hebtv/video_channel_04/ts:2000k/live
+#EXTINF:-1,四川卫视HD
+http://zb.iptv.gd.cn:30001/183.58.12.204:30001/PLTV/88888905/224/3221227901/index.m3u8
 #EXTINF:-1,金鹰纪实HD
-http://124.232.231.246:8088/000000001001/201600020008/index.m3u8?
+http://zb.iptv.gd.cn:30001/183.58.12.204:30001/PLTV/88888905/224/3221227932/index.m3u8
 #EXTINF:-1,北京纪实HD
-http://live.gslb.letv.com/gslb?stream_id=bjjsHD_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
+http://zb.iptv.gd.cn:30001/183.58.12.204:30001/PLTV/88888905/224/3221227555/index.m3u8
 #EXTINF:-1,上海纪实
 http://218.244.147.118:6389/wtvlive/migu2/617289997_5
 #EXTINF:-1,东南卫视
