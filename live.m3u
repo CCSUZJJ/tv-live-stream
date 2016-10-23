@@ -76,14 +76,10 @@ rtsp://27.223.123.70:554/PLTV/88888888/224/3221225874/10000100000000060000000000
 http://live01.hebtv.com/channels/hebtv/video_channel_04/ts:2000k/live
 #EXTINF:-1,广西卫视HD
 http://222.216.111.82:8088/ts000
-#EXTINF:-1,四川卫视HD
-http://zb.iptv.gd.cn:30001/183.58.12.204:30001/PLTV/88888905/224/3221227901/index.m3u8
-#EXTINF:-1,金鹰纪实HD
-http://zb.iptv.gd.cn:30001/183.58.12.204:30001/PLTV/88888905/224/3221227932/index.m3u8
 #EXTINF:-1,北京纪实HD
-http://zb.iptv.gd.cn:30001/183.58.12.204:30001/PLTV/88888905/224/3221227555/index.m3u8
+http://live.gslb.letv.com/gslb?stream_id=bjjsHD_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
 #EXTINF:-1,上海纪实
-http://218.244.147.118:6389/wtvlive/migu2/617289997_5
+http://web-play.pptv.com/web-m3u8-300152.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
 #EXTINF:-1,东南卫视
 rtsp://27.223.123.70:554/PLTV/88888888/224/3221225884/10000100000000060000000000219741_0.smil
 #EXTINF:-1,云南卫视
