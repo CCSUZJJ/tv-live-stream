@@ -138,8 +138,6 @@ rtsp://27.223.123.70:554/PLTV/88888888/224/3221225946/10000100000000060000000000
 rtsp://27.223.123.70:554/PLTV/88888888/224/3221225947/10000100000000060000000000218944_0.smil
 
 #EXTINF:-1,数字节目
-#EXTINF:-1,全纪实HD
-http://42.63.204.15:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R57E50E84U39D78289K7749ABD0M30EAF0DW181930&programid=4200900152&auth=no
 #EXTINF:-1,CCTV-电视指南
 http://221.181.100.24:8088/ws_v/dszn/dszn711/711/01.m3u8
 #EXTINF:-1,CCTV-新科动漫
@@ -180,6 +178,8 @@ http://222.191.24.5:6610/2/2/ch00000090990000001136/index.m3u8?ispcode=3
 #EXTINF:-1,港台&境外
 #EXTINF:-1,凤凰卫视香港台HD
 http://v.34pd.com/live/pytv.php?id=156
+#EXTINF:-1,翡翠台
+http://wshls.acgvideo.com/live/live_44206803_1959058/playlist.m3u8
 #EXTINF:-1,亚洲联合卫视
 http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 #EXTINF:-1,MTV中国
