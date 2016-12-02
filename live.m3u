@@ -139,12 +139,6 @@ http://222.191.24.5:6610/2/2/ch00000090990000001136/index.m3u8?ispcode=3
 #EXTINF:-1,港台&境外
 #EXTINF:-1,凤凰卫视香港台HD
 http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
-#EXTINF:-1,[V]音乐台
-http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZpaCjnKaL4K2eoqmVp-ydnqqXpKWf.m3u8
-#EXTINF:-1,探索频道
-http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6aqaKgnK-L4K2eoqmVp-ydoaiapqij.m3u8
-#EXTINF:-1,国家地理
-http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6aqaKgnaaL4K2eoqmVp-ydoaiapqil.m3u8
 #EXTINF:-1,亚洲联合卫视
 http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 #EXTINF:-1,MTV中国
@@ -153,8 +147,6 @@ http://222.191.24.5:6610/2/2/ch00000090990000001154/index.m3u8?ispcode=3
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1,香港电台32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,星空卫视
-http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZpaCioq6L4K2eoqmVp-ydnqqXo6mh.m3u8
 #EXTINF:-1,TVB8
 http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8
 #EXTINF:-1,华娱卫视
