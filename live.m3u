@@ -31,13 +31,13 @@ http://officetv.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1,CCTV-14少儿HD
 http://120.87.4.70/PLTV/88888894/224/3221225499/index.m3u8
 #EXTINF:-1,CCTV-15音乐
-http://61.166.153.30:1180/live/live100015.m3u8
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/251_/seg0/index.m3u8
 #EXTINF:-1,CCTV-News
-http://officetv.bupt.edu.cn/hls/cctv16.m3u8
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/46_/seg0/index.m3u8
 #EXTINF:-1,CCTV-体育赛事
 http://120.87.4.70/PLTV/88888894/224/3221225503/index.m3u8
 #EXTINF:-1,CCTV-9纪录（英）
-http://124.232.231.246:8088/000000001001/201600020018/index.m3u8?
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/296_/seg0/index.m3u8
 
 #EXTINF:-1,港台
 #EXTINF:-1,凤凰卫视中文台HD
@@ -119,7 +119,9 @@ http://125.88.92.166:30001/PLTV/88888956/224/3221227702/1.m3u8
 #EXTINF:-1,兵团卫视
 http://125.88.92.166:30001/PLTV/88888956/224/3221227705/1.m3u8
 #EXTINF:-1,内蒙古卫视
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/neimenggustv/.m3u8
 #EXTINF:-1,新疆卫视
+http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/xinjiangstv/.m3u8
 #EXTINF:-1,卡酷动画
 http://222.191.24.5:6610/2/2/ch00000090990000001149/index.m3u8?ispcode=3
 #EXTINF:-1,金鹰卡通
