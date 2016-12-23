@@ -131,6 +131,12 @@ http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/youmankato
 #EXTINF:-1,嘉佳卡通
 http://222.191.24.5:6610/2/2/ch00000090990000001236/index.m3u8?ispcode=3
 #EXTINF:-1,数字节目
+#EXTINF:-1,CCTV风云足球
+http://live.gslb.letv.com/gslb?stream_id=fyzq&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
+#EXTINF:-1,CCTV风云音乐
+http://live.gslb.letv.com/gslb?stream_id=fyyy&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
+#EXTINF:-1,CCTV怀旧剧场
+http://live.gslb.letv.com/gslb?stream_id=hjjc&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
 #EXTINF:-1,气象频道
 http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZpamloqaL4K2eoqmVp-ydnqyWoKih.m3u8
 #EXTINF:-1,欧洲足球
