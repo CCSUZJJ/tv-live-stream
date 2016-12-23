@@ -141,7 +141,7 @@ http://live.gslb.letv.com/gslb?stream_id=hjjc&tag=live&ext=m3u8&sign=live_tv&pla
 http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZpamloqaL4K2eoqmVp-ydnqyWoKih.m3u8
 #EXTINF:-1,欧洲足球
 http://222.191.24.5:6610/2/2/ch00000090990000001136/index.m3u8?ispcode=3
-#EXTINF:-1,全纪实高清
+#EXTINF:-1,全纪实
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=3cc320a514b417cce102b090a5473ad0
 #EXTINF:-1,动漫秀场
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=53767b9f133c4bf54cde76e16ccf724f
@@ -149,7 +149,7 @@ http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=53767b9f133c4bf54cde76e16ccf724f
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=7d747ff90dc7cb6d484ae5af9361d160
 #EXTINF:-1,都市剧场
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=2129ef596e471cc6729500bf38833c6a
-#EXTINF:-1,魅力音清
+#EXTINF:-1,魅力音乐
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=8a42e5169420e059489f3026b642241a
 #EXTINF:-1,劲爆体育
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=5a28d769a046aa7c866179ff631db812
@@ -159,7 +159,7 @@ http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=ab14d5718223d1db18165702533bbcb8
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=185b533839b47e2aa01e95f98d1027a1
 #EXTINF:-1,新娱乐
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=4895002c908fd5e3ba4310bbc4217202
-#EXTINF:-1,新视觉高清
+#EXTINF:-1,新视觉
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=fe320944868828a5d31c6b628eb629b0
 
 #EXTINF:-1,港台&境外
