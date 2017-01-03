@@ -144,13 +144,13 @@ http://live.gslb.letv.com/gslb?stream_id=hjjc&tag=live&ext=m3u8&sign=live_tv&pla
 http://player.pptvyun.com/svc/m3u8player/pl/0a2dnq6ZpamloqaL4K2eoqmVp-ydnqyWoKih.m3u8
 #EXTINF:-1,欧洲足球
 http://222.191.24.5:6610/2/2/ch00000090990000001136/index.m3u8?ispcode=3
-#EXTINF:-1求索动物HD
+#EXTINF:-1,求索动物HD
 http://tv.microsoft.sd.cn/gdtv.m3u8?id=QSDWHD_7000
-#EXTINF:-1求索纪录HD
+#EXTINF:-1,求索纪录HD
 http://tv.microsoft.sd.cn/gdtv.m3u8?id=QSJLHD_7000
-#EXTINF:-1求索科学HD
+#EXTINF:-1,求索科学HD
 http://tv.microsoft.sd.cn/gdtv.m3u8?id=qiusuokexueHD_7000
-#EXTINF:-1求索生活HD
+#EXTINF:-1,求索生活HD
 http://tv.microsoft.sd.cn/gdtv.m3u8?id=QSSHHD_7000
 #EXTINF:-1,全纪实
 http://my.fmiptv.cc/fmvlive/tvm_cibn.php?id=3cc320a514b417cce102b090a5473ad0
