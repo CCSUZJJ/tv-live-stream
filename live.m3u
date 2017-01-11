@@ -40,10 +40,10 @@ http://120.87.4.70/PLTV/88888894/224/3221225503/index.m3u8
 http://cctv1.vtime.cntv.dnion.com:8000/live/no/296_/seg0/index.m3u8
 
 #EXTINF:-1,港台
-#EXTINF:-1,凤凰卫视中文台HD
-http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8
+#EXTINF:-1,凤凰卫视中文台
+http://222.36.5.53:9800/live/fhws.m3u8
 #EXTINF:-1,凤凰卫视资讯台
-http://61.216.91.103/live/ch20/playlist.m3u8
+http://222.36.5.53:9800/live/fhzx.m3u8
 
 #EXTINF:-1,省级卫视
 #EXTINF:-1,北京卫视HD
@@ -200,14 +200,6 @@ http://cg2.gcable.cn:9090/live/DOXyuanxianHD_7000.m3u8
 #EXTINF:-1,港台&境外
 #EXTINF:-1,凤凰卫视香港台
 http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
-#EXTINF:-1,探索频道
-rtmp://115.156.165.45:1935/iptv/discovery
-#EXTINF:-1,国家地理
-rtmp://115.156.165.45:1935/iptv/natlgeo
-#EXTINF:-1,星空卫视
-rtmp://115.156.165.45:1935/iptv/startv
-#EXTINF:-1,Channel[V]音乐台
-rtmp://115.156.165.45:1935/iptv/channelv
 #EXTINF:-1,亚洲联合卫视
 http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
 #EXTINF:-1,MTV中国
@@ -217,13 +209,6 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1,香港电台32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,TVB8
-http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8
-#EXTINF:-1,华娱卫视
-http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/huayutv/.m3u8
-#EXTINF:-1,阳光卫视
-http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/yangguangstv/.m3u8
-#EXTINF:-1,澳视莲花
-http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/aomenlianhua/.m3u8
 #EXTINF:-1,澳亚卫视
 http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 
