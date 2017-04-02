@@ -77,7 +77,7 @@ http://live01.hebtv.com/channels/hebtv/video_channel_04/ts:2000k/live
 #EXTINF:-1,广西卫视HD
 http://222.216.111.82:8088/ts000
 #EXTINF:-1,重庆卫视HD
-http://183.252.176.41/PLTV/88888888/224/3221225949/index.m3u8
+http://zb.iptv.ac.cn:30001/PLTV/88888905/224/3221227894/3.m3u8
 #EXTINF:-1,江西卫视HD
 http://183.207.249.15/PLTV/3/224/3221225536/index.m3u8
 #EXTINF:-1,北京纪实HD
@@ -86,6 +86,8 @@ http://183.252.176.24//PLTV/88888888/224/3221225944/index.m3u8
 http://officetv.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1,上海纪实HD
 http://183.252.176.41/PLTV/88888888/224/3221225946/index.m3u8
+#EXTINF:-1,湖南纪实HD
+http://zb.iptv.ac.cn:30001/PLTV/88888905/224/3221227932/3.m3u8
 #EXTINF:-1,东南卫视
 http://125.88.92.166:30001/PLTV/88888956/224/3221227719/1.m3u8
 #EXTINF:-1,贵州卫视
@@ -191,7 +193,7 @@ http://live.cgtn.com/500e/prog_index.m3u8
 #EXTINF:-1,CGTN-俄语
 http://live.cgtn.com/500r/prog_index.m3u8
 #EXTINF:-1,CGTN-法语
-http://live.cgtn.com/500a/prog_index.m3u8
+http://live.cgtn.com/500f/prog_index.m3u8
 #EXTINF:-1,CGTN-阿语
 http://live.cgtn.com/500a/prog_index.m3u8
 #EXTINF:-1,凤凰卫视香港台
@@ -206,7 +208,6 @@ http://222.191.24.5:6610/2/2/ch00000090990000001154/index.m3u8?ispcode=3
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:-1,香港电台32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,TVB8
 #EXTINF:-1,澳亚卫视
 http://live.mastvnet.com/n1rtlHG/500/live.m3u8
 
